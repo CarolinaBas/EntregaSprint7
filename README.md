@@ -14,3 +14,5 @@ Cómo ejecutar localmente
    ```bash
     #    pip install -r requirements.txt
 # Ejecuta la aplicación con: 'streamlit run app.py'
+
+	#   https://entregasprint7.onrender.com/
